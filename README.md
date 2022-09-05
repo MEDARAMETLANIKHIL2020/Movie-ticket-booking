@@ -4,4 +4,4 @@
 
 #### *to book a ticket*
 
-# **[BOOK UR TICKET](https://book-a-ticket.herokuapp.com/ "BOOK UR TICKET")**
+# **[Click here to view thw website](https://book-a-ti.herokuapp.com/ "BOOK UR TICKET")**
